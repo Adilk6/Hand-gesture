@@ -1,3 +1,3 @@
-Hand Gesture rrecognition
+Hand Gesture recognition
 
 
